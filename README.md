@@ -38,6 +38,6 @@ The application uses MySQL for secure and efficient data management.
    ```bash
    mvn clean install
 
-## React 18 needed for this project. !!!!!!!!! 
-## Lombok must inject manually if you using Eclips IDE !!!!!!!
+## React 18 needed for this project.
+## Lombok must inject manually if you using Eclips IDE 
 
